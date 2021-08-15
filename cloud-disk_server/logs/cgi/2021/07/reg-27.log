@@ -1,0 +1,31 @@
+[2021-07-27 16:17:15]--[src_cgi/reg_cgi.c:236]--buf = {
+    "email": "abc@qq.con",
+    "firstPwd": "123456",
+    "nickName": "zhangyangyang",
+    "phone": "15291635330",
+    "userName": "zhangyangyang"
+}
+
+[2021-07-27 16:17:15]--[src_cgi/reg_cgi.c:128]--mysql_user = root, mysql_pwd = 12301230, mysql_db = cloud_disk
+[2021-07-27 16:17:15]--[src_cgi/reg_cgi.c:141]--user = zhangyangyang, nick_name = zhangyangyang, pwd = 123456, tel = 15291635330, email = abc@qq.con
+[2021-07-27 16:17:15]--[src_cgi/reg_cgi.c:147]--msql_conn err
+[2021-07-27 16:20:02]--[src_cgi/reg_cgi.c:236]--buf = {
+    "email": "abc@qq.con",
+    "firstPwd": "123456",
+    "nickName": "zhangyangyang",
+    "phone": "15291635330",
+    "userName": "zhangyangyang"
+}
+
+[2021-07-27 16:20:02]--[src_cgi/reg_cgi.c:128]--mysql_user = root, mysql_pwd = 12301230, mysql_db = cloud_disk
+[2021-07-27 16:20:02]--[src_cgi/reg_cgi.c:141]--user = zhangyangyang, nick_name = zhangyangyang, pwd = 123456, tel = 15291635330, email = abc@qq.con
+[2021-07-27 19:59:56]--[src_cgi/reg_cgi.c:236]--buf = {
+    "email": "abc@qq.com",
+    "firstPwd": "abcabc",
+    "nickName": "abc",
+    "phone": "15291635330",
+    "userName": "abc"
+}
+
+[2021-07-27 19:59:56]--[src_cgi/reg_cgi.c:128]--mysql_user = root, mysql_pwd = 12301230, mysql_db = cloud_disk
+[2021-07-27 19:59:56]--[src_cgi/reg_cgi.c:141]--user = abc, nick_name = abc, pwd = abcabc, tel = 15291635330, email = abc@qq.com

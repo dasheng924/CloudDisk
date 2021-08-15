@@ -1,0 +1,8 @@
+[2021-08-13 15:00:43]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 10.211.55.11:6379 SUCCESS!
+[2021-08-13 15:00:43]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2021-08-13 15:00:45]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 10.211.55.11:6379 SUCCESS!
+[2021-08-13 15:00:45]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2021-08-13 15:00:45]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 10.211.55.11:6379 SUCCESS!
+[2021-08-13 15:00:45]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2021-08-13 15:02:13]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 10.211.55.11:6379 SUCCESS!
+[2021-08-13 15:02:13]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!

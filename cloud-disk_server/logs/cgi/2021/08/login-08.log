@@ -1,0 +1,19 @@
+[2021-08-08 23:55:29]--[src_cgi/login_cgi.c:288]--buf = {
+    "pwd": "12301230",
+    "user": "sungs"
+}
+
+[2021-08-08 23:55:29]--[src_cgi/login_cgi.c:294]--user = sungs, pwd = 12301230
+[2021-08-08 23:55:29]--[src_cgi/login_cgi.c:101]--mysql_user = root, mysql_pwd = 12301230, mysql_db = cloud_disk
+[2021-08-08 23:55:29]--[src_cgi/login_cgi.c:107]--msql_conn err
+[2021-08-08 23:56:15]--[src_cgi/login_cgi.c:288]--buf = {
+    "pwd": "12301230",
+    "user": "sungs"
+}
+
+[2021-08-08 23:56:15]--[src_cgi/login_cgi.c:294]--user = sungs, pwd = 12301230
+[2021-08-08 23:56:15]--[src_cgi/login_cgi.c:101]--mysql_user = root, mysql_pwd = 12301230, mysql_db = cloud_disk
+[2021-08-08 23:56:15]--[src_cgi/login_cgi.c:161]--redis:[ip=10.211.55.11,port=6379]
+[2021-08-08 23:56:15]--[src_cgi/login_cgi.c:185]--tmp = sungs387738290435
+[2021-08-08 23:56:15]--[src_cgi/login_cgi.c:201]--base64 = +nHyaP4OFVnnAZMJPxYhZ2+Ut+5trQL2
+[2021-08-08 23:56:15]--[src_cgi/login_cgi.c:303]--token = 34fddf0dfe02aa6baa5623422c9c952c

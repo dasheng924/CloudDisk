@@ -1,0 +1,10 @@
+[2021-08-13 15:00:13]--[src_cgi/dealfile_cgi.c:42]--mysql:[user=root,pwd=12301230,database=cloud_disk][2021-08-13 15:00:13]--[src_cgi/dealfile_cgi.c:47]--redis:[ip=10.211.55.11,port=6379]
+[2021-08-13 15:02:13]--[src_cgi/dealfile_cgi.c:695]--cmd = pv
+[2021-08-13 15:02:13]--[src_cgi/dealfile_cgi.c:727]--buf = {
+    "filename": "1623751662547036.mp4",
+    "md5": "70775ee153aa8dc060fbe98a750a8c38",
+    "token": "3def18c0337b1f365ddb2b7e56144a5c",
+    "user": "sungs"
+}
+
+[2021-08-13 15:02:13]--[src_cgi/dealfile_cgi.c:730]--user = sungs, token = 3def18c0337b1f365ddb2b7e56144a5c, md5 = 70775ee153aa8dc060fbe98a750a8c38, filename = 1623751662547036.mp4

@@ -1,0 +1,22 @@
+[2021-08-12 18:52:23]--[src_cgi/login_cgi.c:288]--buf = {
+    "pwd": "12301230",
+    "user": "sungs"
+}
+
+[2021-08-12 18:52:23]--[src_cgi/login_cgi.c:294]--user = sungs, pwd = 12301230
+[2021-08-12 18:52:23]--[src_cgi/login_cgi.c:101]--mysql_user = root, mysql_pwd = 12301230, mysql_db = cloud_disk
+[2021-08-12 18:52:23]--[src_cgi/login_cgi.c:161]--redis:[ip=10.211.55.11,port=6379]
+[2021-08-12 18:52:23]--[src_cgi/login_cgi.c:185]--tmp = sungs22446731547
+[2021-08-12 18:52:23]--[src_cgi/login_cgi.c:201]--base64 = vhq3k9vfK4Tz+rFCWsnZjS0ZxLNK7pNJ
+[2021-08-12 18:52:23]--[src_cgi/login_cgi.c:303]--token = 894fe94c48bc149706ce443db9dbb8c9
+[2021-08-12 22:52:54]--[src_cgi/login_cgi.c:288]--buf = {
+    "pwd": "12301230",
+    "user": "sungs"
+}
+
+[2021-08-12 22:52:54]--[src_cgi/login_cgi.c:294]--user = sungs, pwd = 12301230
+[2021-08-12 22:52:54]--[src_cgi/login_cgi.c:101]--mysql_user = root, mysql_pwd = 12301230, mysql_db = cloud_disk
+[2021-08-12 22:52:54]--[src_cgi/login_cgi.c:161]--redis:[ip=10.211.55.11,port=6379]
+[2021-08-12 22:52:54]--[src_cgi/login_cgi.c:185]--tmp = sungs20420861120
+[2021-08-12 22:52:54]--[src_cgi/login_cgi.c:201]--base64 = 00jrwKtWW/If7SLZKyGLPC0ZxLNK7pNJ
+[2021-08-12 22:52:54]--[src_cgi/login_cgi.c:303]--token = 452798d5c49fc60fcb59241b75efabb8

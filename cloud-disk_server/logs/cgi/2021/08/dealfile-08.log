@@ -1,0 +1,10 @@
+[2021-08-08 23:50:56]--[src_cgi/dealfile_cgi.c:42]--mysql:[user=root,pwd=12301230,database=cloud_disk][2021-08-08 23:50:56]--[src_cgi/dealfile_cgi.c:47]--redis:[ip=10.211.55.11,port=6379]
+[2021-08-08 23:56:44]--[src_cgi/dealfile_cgi.c:695]--cmd = share
+[2021-08-08 23:56:44]--[src_cgi/dealfile_cgi.c:727]--buf = {
+    "filename": "孙国盛 C:C++软件开发.md",
+    "md5": "90dad3285063133a59da5ba592ab540e",
+    "token": "34fddf0dfe02aa6baa5623422c9c952c",
+    "user": "sungs"
+}
+
+[2021-08-08 23:56:44]--[src_cgi/dealfile_cgi.c:730]--user = sungs, token = 34fddf0dfe02aa6baa5623422c9c952c, md5 = 90dad3285063133a59da5ba592ab540e, filename = 孙国盛 C:C++软件开发.md

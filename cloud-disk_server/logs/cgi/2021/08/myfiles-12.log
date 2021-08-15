@@ -1,0 +1,180 @@
+[2021-08-12 18:51:06]--[src_cgi/myfiles_cgi.c:41]--mysql:[user=root,pwd=12301230,database=cloud_disk][2021-08-12 18:52:24]--[src_cgi/myfiles_cgi.c:500]--cmd = count
+[2021-08-12 18:52:24]--[src_cgi/myfiles_cgi.c:532]--buf = {
+    "token": "894fe94c48bc149706ce443db9dbb8c9",
+    "user": "sungs"
+}
+
+[2021-08-12 18:52:24]--[src_cgi/myfiles_cgi.c:177]--line = 4
+[2021-08-12 18:52:24]--[src_cgi/myfiles_cgi.c:500]--cmd = Normal
+[2021-08-12 18:52:24]--[src_cgi/myfiles_cgi.c:532]--buf = {
+    "count": 4,
+    "start": 0,
+    "token": "894fe94c48bc149706ce443db9dbb8c9",
+    "user": "sungs"
+}
+
+[2021-08-12 18:52:24]--[src_cgi/myfiles_cgi.c:552]--user = sungs, token = 894fe94c48bc149706ce443db9dbb8c9, start = 0, count = 4
+[2021-08-12 18:52:24]--[src_cgi/myfiles_cgi.c:309]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'sungs' and file_info.md5 = user_file_list.md5 limit 0, 4 在操作
+[2021-08-12 18:52:24]--[src_cgi/myfiles_cgi.c:432]--{
+	"files":	[{
+			"user":	"sungs",
+			"md5":	"e8c3baa9689022e822bb31b0eab8dd17",
+			"time":	"2021-08-03 17:49:36",
+			"filename":	"202107162119 (1).mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETCAIKw2ACQJK66pcr4162.mp4",
+			"size":	2361643,
+			"type":	"mp4"
+		}, {
+			"user":	"sungs",
+			"md5":	"aa306610b46b7d0216c24caa0eba6f8d",
+			"time":	"2021-08-03 17:49:38",
+			"filename":	"202107162119.mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETKAEew6Ad0A2y5S988436.mp4",
+			"size":	31260891,
+			"type":	"mp4"
+		}, {
+			"user":	"sungs",
+			"md5":	"70775ee153aa8dc060fbe98a750a8c38",
+			"time":	"2021-08-03 17:49:38",
+			"filename":	"1623751662547036.mp4",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETKAR8MfAI5SWWFe6ms063.mp4",
+			"size":	9327193,
+			"type":	"mp4"
+		}, {
+			"user":	"sungs",
+			"md5":	"90dad3285063133a59da5ba592ab540e",
+			"time":	"2021-08-08 23:56:31",
+			"filename":	"孙国盛 C:C++软件开发.md",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EP_q-AIVbVAAAF4rT1Cmo2404.md",
+			"size":	1506,
+			"type":	"md"
+		}]
+}
+[2021-08-12 18:52:53]--[src_cgi/myfiles_cgi.c:500]--cmd = count
+[2021-08-12 18:52:53]--[src_cgi/myfiles_cgi.c:532]--buf = {
+    "token": "894fe94c48bc149706ce443db9dbb8c9",
+    "user": "sungs"
+}
+
+[2021-08-12 18:52:53]--[src_cgi/myfiles_cgi.c:177]--line = 4
+[2021-08-12 18:52:53]--[src_cgi/myfiles_cgi.c:500]--cmd = Normal
+[2021-08-12 18:52:53]--[src_cgi/myfiles_cgi.c:532]--buf = {
+    "count": 4,
+    "start": 0,
+    "token": "894fe94c48bc149706ce443db9dbb8c9",
+    "user": "sungs"
+}
+
+[2021-08-12 18:52:53]--[src_cgi/myfiles_cgi.c:552]--user = sungs, token = 894fe94c48bc149706ce443db9dbb8c9, start = 0, count = 4
+[2021-08-12 18:52:53]--[src_cgi/myfiles_cgi.c:309]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'sungs' and file_info.md5 = user_file_list.md5 limit 0, 4 在操作
+[2021-08-12 18:52:53]--[src_cgi/myfiles_cgi.c:432]--{
+	"files":	[{
+			"user":	"sungs",
+			"md5":	"e8c3baa9689022e822bb31b0eab8dd17",
+			"time":	"2021-08-03 17:49:36",
+			"filename":	"202107162119 (1).mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETCAIKw2ACQJK66pcr4162.mp4",
+			"size":	2361643,
+			"type":	"mp4"
+		}, {
+			"user":	"sungs",
+			"md5":	"aa306610b46b7d0216c24caa0eba6f8d",
+			"time":	"2021-08-03 17:49:38",
+			"filename":	"202107162119.mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETKAEew6Ad0A2y5S988436.mp4",
+			"size":	31260891,
+			"type":	"mp4"
+		}, {
+			"user":	"sungs",
+			"md5":	"70775ee153aa8dc060fbe98a750a8c38",
+			"time":	"2021-08-03 17:49:38",
+			"filename":	"1623751662547036.mp4",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETKAR8MfAI5SWWFe6ms063.mp4",
+			"size":	9327193,
+			"type":	"mp4"
+		}, {
+			"user":	"sungs",
+			"md5":	"90dad3285063133a59da5ba592ab540e",
+			"time":	"2021-08-08 23:56:31",
+			"filename":	"孙国盛 C:C++软件开发.md",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EP_q-AIVbVAAAF4rT1Cmo2404.md",
+			"size":	1506,
+			"type":	"md"
+		}]
+}
+[2021-08-12 22:52:56]--[src_cgi/myfiles_cgi.c:500]--cmd = count
+[2021-08-12 22:52:56]--[src_cgi/myfiles_cgi.c:532]--buf = {
+    "token": "452798d5c49fc60fcb59241b75efabb8",
+    "user": "sungs"
+}
+
+[2021-08-12 22:52:56]--[src_cgi/myfiles_cgi.c:177]--line = 4
+[2021-08-12 22:52:56]--[src_cgi/myfiles_cgi.c:500]--cmd = Normal
+[2021-08-12 22:52:56]--[src_cgi/myfiles_cgi.c:532]--buf = {
+    "count": 4,
+    "start": 0,
+    "token": "452798d5c49fc60fcb59241b75efabb8",
+    "user": "sungs"
+}
+
+[2021-08-12 22:52:56]--[src_cgi/myfiles_cgi.c:552]--user = sungs, token = 452798d5c49fc60fcb59241b75efabb8, start = 0, count = 4
+[2021-08-12 22:52:56]--[src_cgi/myfiles_cgi.c:309]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'sungs' and file_info.md5 = user_file_list.md5 limit 0, 4 在操作
+[2021-08-12 22:52:56]--[src_cgi/myfiles_cgi.c:432]--{
+	"files":	[{
+			"user":	"sungs",
+			"md5":	"e8c3baa9689022e822bb31b0eab8dd17",
+			"time":	"2021-08-03 17:49:36",
+			"filename":	"202107162119 (1).mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETCAIKw2ACQJK66pcr4162.mp4",
+			"size":	2361643,
+			"type":	"mp4"
+		}, {
+			"user":	"sungs",
+			"md5":	"aa306610b46b7d0216c24caa0eba6f8d",
+			"time":	"2021-08-03 17:49:38",
+			"filename":	"202107162119.mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETKAEew6Ad0A2y5S988436.mp4",
+			"size":	31260891,
+			"type":	"mp4"
+		}, {
+			"user":	"sungs",
+			"md5":	"70775ee153aa8dc060fbe98a750a8c38",
+			"time":	"2021-08-03 17:49:38",
+			"filename":	"1623751662547036.mp4",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETKAR8MfAI5SWWFe6ms063.mp4",
+			"size":	9327193,
+			"type":	"mp4"
+		}, {
+			"user":	"sungs",
+			"md5":	"90dad3285063133a59da5ba592ab540e",
+			"time":	"2021-08-08 23:56:31",
+			"filename":	"孙国盛 C:C++软件开发.md",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EP_q-AIVbVAAAF4rT1Cmo2404.md",
+			"size":	1506,
+			"type":	"md"
+		}]
+}

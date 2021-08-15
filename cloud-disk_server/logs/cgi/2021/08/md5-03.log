@@ -1,0 +1,153 @@
+[2021-08-03 02:01:25]--[src_cgi/md5_cgi.c:40]--mysql:[user=root,pwd=12301230,database=cloud_disk][2021-08-03 02:01:49]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "test_hiredis.c",
+    "md5": "1a4fda93a0ffe567e5d722cee0cc7b2a",
+    "token": "712f03417677c820b2f4216d9520a839",
+    "user": "sungs"
+}
+
+[2021-08-03 02:01:49]--[src_cgi/md5_cgi.c:361]--user = sungs, token = 712f03417677c820b2f4216d9520a839, md5 = 1a4fda93a0ffe567e5d722cee0cc7b2a, filename = test_hiredis.c
+[2021-08-03 02:07:38]--[src_cgi/md5_cgi.c:40]--mysql:[user=root,pwd=12301230,database=cloud_disk][2021-08-03 02:08:03]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "202107162119.mp4",
+    "md5": "aa306610b46b7d0216c24caa0eba6f8d",
+    "token": "25878a7bb4298e0321358ca959dbc37a",
+    "user": "sungs"
+}
+
+[2021-08-03 02:08:03]--[src_cgi/md5_cgi.c:361]--user = sungs, token = 25878a7bb4298e0321358ca959dbc37a, md5 = aa306610b46b7d0216c24caa0eba6f8d, filename = 202107162119.mp4
+[2021-08-03 02:12:50]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "C基础讲义.doc",
+    "md5": "ade031f556ba77219901089a10c53896",
+    "token": "e3deb7f28faa2e3056d54e0147643da4",
+    "user": "sungs"
+}
+
+[2021-08-03 02:12:50]--[src_cgi/md5_cgi.c:361]--user = sungs, token = e3deb7f28faa2e3056d54e0147643da4, md5 = ade031f556ba77219901089a10c53896, filename = C基础讲义.doc
+[2021-08-03 02:16:01]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "学习文档.txt",
+    "md5": "bf4ef93188d36765f235e236e35c6da8",
+    "token": "e1b68bba26f096bf4244da475a18d98c",
+    "user": "sungs"
+}
+
+[2021-08-03 02:16:01]--[src_cgi/md5_cgi.c:361]--user = sungs, token = e1b68bba26f096bf4244da475a18d98c, md5 = bf4ef93188d36765f235e236e35c6da8, filename = 学习文档.txt
+[2021-08-03 02:19:39]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "OIP-C (1).jpeg",
+    "md5": "88b25c14c3ed8fa813b3eafe2ff2720a",
+    "token": "e1b68bba26f096bf4244da475a18d98c",
+    "user": "sungs"
+}
+
+[2021-08-03 02:19:39]--[src_cgi/md5_cgi.c:361]--user = sungs, token = e1b68bba26f096bf4244da475a18d98c, md5 = 88b25c14c3ed8fa813b3eafe2ff2720a, filename = OIP-C (1).jpeg
+[2021-08-03 02:21:52]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "OIP-C (1).jpeg",
+    "md5": "88b25c14c3ed8fa813b3eafe2ff2720a",
+    "token": "4c92d2f81468baf61491dd5e7be3b828",
+    "user": "sungs"
+}
+
+[2021-08-03 02:21:52]--[src_cgi/md5_cgi.c:361]--user = sungs, token = 4c92d2f81468baf61491dd5e7be3b828, md5 = 88b25c14c3ed8fa813b3eafe2ff2720a, filename = OIP-C (1).jpeg
+[2021-08-03 02:21:52]--[src_cgi/md5_cgi.c:184]--sungs[filename:OIP-C (1).jpeg, md5:88b25c14c3ed8fa813b3eafe2ff2720a]已存在
+[2021-08-03 02:22:08]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "temp.json",
+    "md5": "a27155385b9c76104cdf3196c8384007",
+    "token": "4c92d2f81468baf61491dd5e7be3b828",
+    "user": "sungs"
+}
+
+[2021-08-03 02:22:08]--[src_cgi/md5_cgi.c:361]--user = sungs, token = 4c92d2f81468baf61491dd5e7be3b828, md5 = a27155385b9c76104cdf3196c8384007, filename = temp.json
+[2021-08-03 02:23:13]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "RegexBuddy(正则表达式工具).exe",
+    "md5": "c73118915aa2ad7c813c9998c12268a5",
+    "token": "4c92d2f81468baf61491dd5e7be3b828",
+    "user": "sungs"
+}
+
+[2021-08-03 02:23:13]--[src_cgi/md5_cgi.c:361]--user = sungs, token = 4c92d2f81468baf61491dd5e7be3b828, md5 = c73118915aa2ad7c813c9998c12268a5, filename = RegexBuddy(正则表达式工具).exe
+[2021-08-03 12:19:08]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "IMG_4165.JPG",
+    "md5": "a4bc3872649ee85f3b1038238943f83d",
+    "token": "68fba72a372d4f85d83f3aa9face44f0",
+    "user": "sungs"
+}
+
+[2021-08-03 12:19:08]--[src_cgi/md5_cgi.c:361]--user = sungs, token = 68fba72a372d4f85d83f3aa9face44f0, md5 = a4bc3872649ee85f3b1038238943f83d, filename = IMG_4165.JPG
+[2021-08-03 12:21:25]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "offline-351271.jpg",
+    "md5": "ac05666fa9fb06646791ef47bf395ec9",
+    "token": "cb45d37da6f10e91b1077943f577c6d3",
+    "user": "sungs"
+}
+
+[2021-08-03 12:21:25]--[src_cgi/md5_cgi.c:361]--user = sungs, token = cb45d37da6f10e91b1077943f577c6d3, md5 = ac05666fa9fb06646791ef47bf395ec9, filename = offline-351271.jpg
+[2021-08-03 16:25:39]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "1623751662547036.mp4",
+    "md5": "70775ee153aa8dc060fbe98a750a8c38",
+    "token": "cb5389e7105ef921a27087a216987fc2",
+    "user": "sungs"
+}
+
+[2021-08-03 16:25:39]--[src_cgi/md5_cgi.c:361]--user = sungs, token = cb5389e7105ef921a27087a216987fc2, md5 = 70775ee153aa8dc060fbe98a750a8c38, filename = 1623751662547036.mp4
+[2021-08-03 16:27:01]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "CallLandLord.rar",
+    "md5": "1bdd2566f308f70f289a086010ab8a55",
+    "token": "cb5389e7105ef921a27087a216987fc2",
+    "user": "sungs"
+}
+
+[2021-08-03 16:27:01]--[src_cgi/md5_cgi.c:361]--user = sungs, token = cb5389e7105ef921a27087a216987fc2, md5 = 1bdd2566f308f70f289a086010ab8a55, filename = CallLandLord.rar
+[2021-08-03 16:30:06]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "(95).png",
+    "md5": "b6bfcdd57b583c493a672769195fa861",
+    "token": "c22ea6de4aa6b90e1a441370fe744b40",
+    "user": "sungs"
+}
+
+[2021-08-03 16:30:06]--[src_cgi/md5_cgi.c:361]--user = sungs, token = c22ea6de4aa6b90e1a441370fe744b40, md5 = b6bfcdd57b583c493a672769195fa861, filename = (95).png
+[2021-08-03 16:32:32]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "bin_radar.zip",
+    "md5": "861fcb61c2827807b4281d76709ff956",
+    "token": "77511b2f9579f6badb50bb8ce12cf8fe",
+    "user": "sungs"
+}
+
+[2021-08-03 16:32:32]--[src_cgi/md5_cgi.c:361]--user = sungs, token = 77511b2f9579f6badb50bb8ce12cf8fe, md5 = 861fcb61c2827807b4281d76709ff956, filename = bin_radar.zip
+[2021-08-03 17:07:20]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "IMG_7586.JPG",
+    "md5": "33bfb31bc837c549cedcabb318266198",
+    "token": "153b3772ce0133fc4d0f2aed48df9cdf",
+    "user": "sungs"
+}
+
+[2021-08-03 17:07:20]--[src_cgi/md5_cgi.c:361]--user = sungs, token = 153b3772ce0133fc4d0f2aed48df9cdf, md5 = 33bfb31bc837c549cedcabb318266198, filename = IMG_7586.JPG
+[2021-08-03 17:31:34]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "CtM3C2EFbQ-AJ-hoAgZy2zC3bVA746.pdf",
+    "md5": "29c82d3c4f89e475572d6638db15e598",
+    "token": "bc37afe9bbff8300aa82fe7b28295772",
+    "user": "sungs"
+}
+
+[2021-08-03 17:31:34]--[src_cgi/md5_cgi.c:361]--user = sungs, token = bc37afe9bbff8300aa82fe7b28295772, md5 = 29c82d3c4f89e475572d6638db15e598, filename = CtM3C2EFbQ-AJ-hoAgZy2zC3bVA746.pdf
+[2021-08-03 17:49:36]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "202107162119 (1).mp4",
+    "md5": "e8c3baa9689022e822bb31b0eab8dd17",
+    "token": "ec8c6125602b2e2fdc5a90e52b76bfa0",
+    "user": "sungs"
+}
+
+[2021-08-03 17:49:36]--[src_cgi/md5_cgi.c:361]--user = sungs, token = ec8c6125602b2e2fdc5a90e52b76bfa0, md5 = e8c3baa9689022e822bb31b0eab8dd17, filename = 202107162119 (1).mp4
+[2021-08-03 17:49:36]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "202107162119.mp4",
+    "md5": "aa306610b46b7d0216c24caa0eba6f8d",
+    "token": "ec8c6125602b2e2fdc5a90e52b76bfa0",
+    "user": "sungs"
+}
+
+[2021-08-03 17:49:36]--[src_cgi/md5_cgi.c:361]--user = sungs, token = ec8c6125602b2e2fdc5a90e52b76bfa0, md5 = aa306610b46b7d0216c24caa0eba6f8d, filename = 202107162119.mp4
+[2021-08-03 17:49:38]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "1623751662547036.mp4",
+    "md5": "70775ee153aa8dc060fbe98a750a8c38",
+    "token": "ec8c6125602b2e2fdc5a90e52b76bfa0",
+    "user": "sungs"
+}
+
+[2021-08-03 17:49:38]--[src_cgi/md5_cgi.c:361]--user = sungs, token = ec8c6125602b2e2fdc5a90e52b76bfa0, md5 = 70775ee153aa8dc060fbe98a750a8c38, filename = 1623751662547036.mp4

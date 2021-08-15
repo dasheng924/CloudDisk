@@ -1,0 +1,140 @@
+[2021-07-31 15:17:09]--[src_cgi/upload_cgi.c:42]--mysql:[user=root,pwd=12301230,database=cloud_disk][2021-07-31 17:40:32]--[src_cgi/upload_cgi.c:616]--sungs成功上传[IMG_7946.PNG, 大小：0, md5码：3abeef1b8b0bacb817f2bc4ae1115e6d]到本地
+[2021-07-31 17:40:32]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFGpCAWpJfAAAAAAAAAAA927.PNG] succ!
+[2021-07-31 17:40:32]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFGpCAWpJfAAAAAAAAAAA927.PNG
+[2021-07-31 17:40:32]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('3abeef1b8b0bacb817f2bc4ae1115e6d', 'group1/M00/00/00/CtM3C2EFGpCAWpJfAAAAAAAAAAA927.PNG', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFGpCAWpJfAAAAAAAAAAA927.PNG', '0', 'PNG', 1) 文件信息插入成功
+[2021-07-31 17:51:56]--[src_cgi/upload_cgi.c:616]--sungs成功上传[IMG_7590 2.JPG, 大小：0, md5码：d6a053d73678cc2974d73190bd5f714d]到本地
+[2021-07-31 17:51:56]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFHTyAO9mxABHuTEj56Lg294.JPG] succ!
+[2021-07-31 17:51:56]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFHTyAO9mxABHuTEj56Lg294.JPG
+[2021-07-31 17:51:56]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('d6a053d73678cc2974d73190bd5f714d', 'group1/M00/00/00/CtM3C2EFHTyAO9mxABHuTEj56Lg294.JPG', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFHTyAO9mxABHuTEj56Lg294.JPG', '0', 'JPG', 1) 文件信息插入成功
+[2021-07-31 17:51:56]--[src_cgi/upload_cgi.c:616]--sungs成功上传[IMG_7590 2.JPG, 大小：0, md5码：d6a053d73678cc2974d73190bd5f714d]到本地
+[2021-07-31 17:51:56]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFHTyAMeMHAAAAAAAAAAA727.JPG] succ!
+[2021-07-31 17:51:56]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFHTyAMeMHAAAAAAAAAAA727.JPG
+[2021-07-31 17:51:56]--[src_cgi/upload_cgi.c:505]--insert into file_info (md5, file_id, url, size, type, count) values ('d6a053d73678cc2974d73190bd5f714d', 'group1/M00/00/00/CtM3C2EFHTyAMeMHAAAAAAAAAAA727.JPG', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFHTyAMeMHAAAAAAAAAAA727.JPG', '0', 'JPG', 1) 插入失败: Duplicate entry 'd6a053d73678cc2974d73190bd5f714d' for key 'file_info.PRIMARY'
+[2021-07-31 17:52:35]--[src_cgi/upload_cgi.c:42]--mysql:[user=root,pwd=12301230,database=cloud_disk][2021-07-31 17:59:17]--[src_cgi/upload_cgi.c:616]--sungs成功上传[Pan, 大小：0, md5码：9f69b9167e788f42b4416d20ac86101d]到本地
+[2021-07-31 17:59:17]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFHvWAFlJ5AAAAAAAAAAA0205335] succ!
+[2021-07-31 17:59:17]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFHvWAFlJ5AAAAAAAAAAA0205335
+[2021-07-31 17:59:17]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('9f69b9167e788f42b4416d20ac86101d', 'group1/M00/00/00/CtM3C2EFHvWAFlJ5AAAAAAAAAAA0205335', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFHvWAFlJ5AAAAAAAAAAA0205335', '0', 'null', 1) 文件信息插入成功
+[2021-07-31 17:59:17]--[src_cgi/upload_cgi.c:616]--sungs成功上传[Pan, 大小：0, md5码：9f69b9167e788f42b4416d20ac86101d]到本地
+[2021-07-31 17:59:17]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFHvWAdKhWABS6WCvXn6I5559283] succ!
+[2021-07-31 17:59:17]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFHvWAdKhWABS6WCvXn6I5559283
+[2021-07-31 17:59:17]--[src_cgi/upload_cgi.c:505]--insert into file_info (md5, file_id, url, size, type, count) values ('9f69b9167e788f42b4416d20ac86101d', 'group1/M00/00/00/CtM3C2EFHvWAdKhWABS6WCvXn6I5559283', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFHvWAdKhWABS6WCvXn6I5559283', '0', 'null', 1) 插入失败: Duplicate entry '9f69b9167e788f42b4416d20ac86101d' for key 'file_info.PRIMARY'
+[2021-07-31 18:08:50]--[src_cgi/upload_cgi.c:616]--sungs成功上传[202107162119 (1).mp4, 大小：0, md5码：e8c3baa9689022e822bb31b0eab8dd17]到本地
+[2021-07-31 18:08:50]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFITKAOoN_AAAAAAAAAAA456.mp4] succ!
+[2021-07-31 18:08:50]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFITKAOoN_AAAAAAAAAAA456.mp4
+[2021-07-31 18:08:50]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('e8c3baa9689022e822bb31b0eab8dd17', 'group1/M00/00/00/CtM3C2EFITKAOoN_AAAAAAAAAAA456.mp4', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFITKAOoN_AAAAAAAAAAA456.mp4', '0', 'mp4', 1) 文件信息插入成功
+[2021-07-31 18:08:50]--[src_cgi/upload_cgi.c:616]--sungs成功上传[202107162119 (1).mp4, 大小：0, md5码：e8c3baa9689022e822bb31b0eab8dd17]到本地
+[2021-07-31 18:08:50]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFITKAPS03ACQJK66pcr4050.mp4] succ!
+[2021-07-31 18:08:50]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFITKAPS03ACQJK66pcr4050.mp4
+[2021-07-31 18:08:50]--[src_cgi/upload_cgi.c:505]--insert into file_info (md5, file_id, url, size, type, count) values ('e8c3baa9689022e822bb31b0eab8dd17', 'group1/M00/00/00/CtM3C2EFITKAPS03ACQJK66pcr4050.mp4', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFITKAPS03ACQJK66pcr4050.mp4', '0', 'mp4', 1) 插入失败: Duplicate entry 'e8c3baa9689022e822bb31b0eab8dd17' for key 'file_info.PRIMARY'
+[2021-07-31 19:42:19]--[src_cgi/upload_cgi.c:616]--sungs成功上传[孙国盛 C:C++软件开发.md, 大小：0, md5码：90dad3285063133a59da5ba592ab540e]到本地
+[2021-07-31 19:42:19]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFNxuAcicPAAAF4rT1Cmo6360.md] succ!
+[2021-07-31 19:42:19]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFNxuAcicPAAAF4rT1Cmo6360.md
+[2021-07-31 19:42:19]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('90dad3285063133a59da5ba592ab540e', 'group1/M00/00/00/CtM3C2EFNxuAcicPAAAF4rT1Cmo6360.md', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFNxuAcicPAAAF4rT1Cmo6360.md', '0', 'md', 1) 文件信息插入成功
+[2021-07-31 19:42:19]--[src_cgi/upload_cgi.c:616]--sungs成功上传[孙国盛 C:C++软件开发.md, 大小：0, md5码：90dad3285063133a59da5ba592ab540e]到本地
+[2021-07-31 19:42:19]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFNxuAc1obAAAAAAAAAAA7962.md] succ!
+[2021-07-31 19:42:19]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFNxuAc1obAAAAAAAAAAA7962.md
+[2021-07-31 19:42:19]--[src_cgi/upload_cgi.c:505]--insert into file_info (md5, file_id, url, size, type, count) values ('90dad3285063133a59da5ba592ab540e', 'group1/M00/00/00/CtM3C2EFNxuAc1obAAAAAAAAAAA7962.md', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFNxuAc1obAAAAAAAAAAA7962.md', '0', 'md', 1) 插入失败: Duplicate entry '90dad3285063133a59da5ba592ab540e' for key 'file_info.PRIMARY'
+[2021-07-31 20:33:32]--[src_cgi/upload_cgi.c:616]--sungs成功上传[IMG_7700.JPG, 大小：0, md5码：c72d7d348a26167e4a68eabb39a8b893]到本地
+[2021-07-31 20:33:32]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFQxyACHdbAAAAAAAAAAA394.JPG] succ!
+[2021-07-31 20:33:32]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFQxyACHdbAAAAAAAAAAA394.JPG
+[2021-07-31 20:33:32]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('c72d7d348a26167e4a68eabb39a8b893', 'group1/M00/00/00/CtM3C2EFQxyACHdbAAAAAAAAAAA394.JPG', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFQxyACHdbAAAAAAAAAAA394.JPG', '0', 'JPG', 1) 文件信息插入成功
+[2021-07-31 20:33:32]--[src_cgi/upload_cgi.c:616]--sungs成功上传[IMG_7700.JPG, 大小：0, md5码：c72d7d348a26167e4a68eabb39a8b893]到本地
+[2021-07-31 20:33:32]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFQxyAc1GHABbaV5FOMt4990.JPG] succ!
+[2021-07-31 20:33:32]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFQxyAc1GHABbaV5FOMt4990.JPG
+[2021-07-31 20:33:32]--[src_cgi/upload_cgi.c:505]--insert into file_info (md5, file_id, url, size, type, count) values ('c72d7d348a26167e4a68eabb39a8b893', 'group1/M00/00/00/CtM3C2EFQxyAc1GHABbaV5FOMt4990.JPG', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFQxyAc1GHABbaV5FOMt4990.JPG', '0', 'JPG', 1) 插入失败: Duplicate entry 'c72d7d348a26167e4a68eabb39a8b893' for key 'file_info.PRIMARY'
+[2021-07-31 20:57:52]--[src_cgi/upload_cgi.c:616]--sungs成功上传[IMG_7707.JPG, 大小：0, md5码：20656ea1082f75da47e348fb5710787a]到本地
+[2021-07-31 20:57:52]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFSNCAT_Q_AAAAAAAAAAA125.JPG] succ!
+[2021-07-31 20:57:52]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFSNCAT_Q_AAAAAAAAAAA125.JPG
+[2021-07-31 20:57:52]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('20656ea1082f75da47e348fb5710787a', 'group1/M00/00/00/CtM3C2EFSNCAT_Q_AAAAAAAAAAA125.JPG', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFSNCAT_Q_AAAAAAAAAAA125.JPG', '0', 'JPG', 1) 文件信息插入成功
+[2021-07-31 20:57:52]--[src_cgi/upload_cgi.c:616]--sungs成功上传[IMG_7707.JPG, 大小：0, md5码：20656ea1082f75da47e348fb5710787a]到本地
+[2021-07-31 20:57:52]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFSNCAJkHiAB_CIQdWos4692.JPG] succ!
+[2021-07-31 20:57:52]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFSNCAJkHiAB_CIQdWos4692.JPG
+[2021-07-31 20:57:52]--[src_cgi/upload_cgi.c:505]--insert into file_info (md5, file_id, url, size, type, count) values ('20656ea1082f75da47e348fb5710787a', 'group1/M00/00/00/CtM3C2EFSNCAJkHiAB_CIQdWos4692.JPG', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFSNCAJkHiAB_CIQdWos4692.JPG', '0', 'JPG', 1) 插入失败: Duplicate entry '20656ea1082f75da47e348fb5710787a' for key 'file_info.PRIMARY'
+[2021-07-31 22:42:00]--[src_cgi/upload_cgi.c:616]--sungs成功上传[temp.json, 大小：0, md5码：a27155385b9c76104cdf3196c8384007]到本地
+[2021-07-31 22:42:00]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFYTiAKX1nAAAAYmlP9r001.json] succ!
+[2021-07-31 22:42:00]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFYTiAKX1nAAAAYmlP9r001.json
+[2021-07-31 22:42:00]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('a27155385b9c76104cdf3196c8384007', 'group1/M00/00/00/CtM3C2EFYTiAKX1nAAAAYmlP9r001.json', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFYTiAKX1nAAAAYmlP9r001.json', '0', 'json', 1) 文件信息插入成功
+[2021-07-31 22:42:00]--[src_cgi/upload_cgi.c:616]--sungs成功上传[temp.json, 大小：0, md5码：a27155385b9c76104cdf3196c8384007]到本地
+[2021-07-31 22:42:00]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFYTiAFqC4AAAAAAAAAAA68.json] succ!
+[2021-07-31 22:42:00]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFYTiAFqC4AAAAAAAAAAA68.json
+[2021-07-31 22:42:00]--[src_cgi/upload_cgi.c:505]--insert into file_info (md5, file_id, url, size, type, count) values ('a27155385b9c76104cdf3196c8384007', 'group1/M00/00/00/CtM3C2EFYTiAFqC4AAAAAAAAAAA68.json', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFYTiAFqC4AAAAAAAAAAA68.json', '0', 'json', 1) 插入失败: Duplicate entry 'a27155385b9c76104cdf3196c8384007' for key 'file_info.PRIMARY'
+[2021-07-31 22:45:36]--[src_cgi/upload_cgi.c:616]--sungs成功上传[QML葵花宝典.pdf, 大小：0, md5码：09113234a337f65ceec5cdc7f420f20c]到本地
+[2021-07-31 22:45:36]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFYhCAQhOBAAAAAAAAAAA382.pdf] succ!
+[2021-07-31 22:45:36]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFYhCAQhOBAAAAAAAAAAA382.pdf
+[2021-07-31 22:45:36]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('09113234a337f65ceec5cdc7f420f20c', 'group1/M00/00/00/CtM3C2EFYhCAQhOBAAAAAAAAAAA382.pdf', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFYhCAQhOBAAAAAAAAAAA382.pdf', '0', 'pdf', 1) 文件信息插入成功
+[2021-07-31 22:45:36]--[src_cgi/upload_cgi.c:616]--sungs成功上传[QML葵花宝典.pdf, 大小：0, md5码：09113234a337f65ceec5cdc7f420f20c]到本地
+[2021-07-31 22:45:36]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFYhCAKLu7AGxMFcvh9hw903.pdf] succ!
+[2021-07-31 22:45:36]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFYhCAKLu7AGxMFcvh9hw903.pdf
+[2021-07-31 22:45:36]--[src_cgi/upload_cgi.c:505]--insert into file_info (md5, file_id, url, size, type, count) values ('09113234a337f65ceec5cdc7f420f20c', 'group1/M00/00/00/CtM3C2EFYhCAKLu7AGxMFcvh9hw903.pdf', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFYhCAKLu7AGxMFcvh9hw903.pdf', '0', 'pdf', 1) 插入失败: Duplicate entry '09113234a337f65ceec5cdc7f420f20c' for key 'file_info.PRIMARY'
+[2021-07-31 22:54:13]--[src_cgi/upload_cgi.c:616]--sungs成功上传[08-文件上传.pdf, 大小：0, md5码：bb8e1c99d1216f9f4863c30b11b1c7c1]到本地
+[2021-07-31 22:54:13]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFZBWALMrNAAbbBtrvnFs471.pdf] succ!
+[2021-07-31 22:54:13]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFZBWALMrNAAbbBtrvnFs471.pdf
+[2021-07-31 22:54:13]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('bb8e1c99d1216f9f4863c30b11b1c7c1', 'group1/M00/00/00/CtM3C2EFZBWALMrNAAbbBtrvnFs471.pdf', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFZBWALMrNAAbbBtrvnFs471.pdf', '0', 'pdf', 1) 文件信息插入成功
+[2021-07-31 22:54:13]--[src_cgi/upload_cgi.c:616]--sungs成功上传[08-文件上传.pdf, 大小：0, md5码：bb8e1c99d1216f9f4863c30b11b1c7c1]到本地
+[2021-07-31 22:54:13]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFZBWAIQGeAAAAAAAAAAA487.pdf] succ!
+[2021-07-31 22:54:13]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFZBWAIQGeAAAAAAAAAAA487.pdf
+[2021-07-31 22:54:13]--[src_cgi/upload_cgi.c:505]--insert into file_info (md5, file_id, url, size, type, count) values ('bb8e1c99d1216f9f4863c30b11b1c7c1', 'group1/M00/00/00/CtM3C2EFZBWAIQGeAAAAAAAAAAA487.pdf', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFZBWAIQGeAAAAAAAAAAA487.pdf', '0', 'pdf', 1) 插入失败: Duplicate entry 'bb8e1c99d1216f9f4863c30b11b1c7c1' for key 'file_info.PRIMARY'
+[2021-07-31 22:55:18]--[src_cgi/upload_cgi.c:616]--sungs成功上传[数据库基础总结.md, 大小：0, md5码：df1f84cf9094b616ff4e719ee2bc2f91]到本地
+[2021-07-31 22:55:18]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFZFaAUESaAACcZiHFJ1g8647.md] succ!
+[2021-07-31 22:55:18]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFZFaAUESaAACcZiHFJ1g8647.md
+[2021-07-31 22:55:18]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('df1f84cf9094b616ff4e719ee2bc2f91', 'group1/M00/00/00/CtM3C2EFZFaAUESaAACcZiHFJ1g8647.md', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFZFaAUESaAACcZiHFJ1g8647.md', '0', 'md', 1) 文件信息插入成功
+[2021-07-31 22:55:18]--[src_cgi/upload_cgi.c:616]--sungs成功上传[数据库基础总结.md, 大小：0, md5码：df1f84cf9094b616ff4e719ee2bc2f91]到本地
+[2021-07-31 22:55:18]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFZFaARcUPAAAAAAAAAAA0833.md] succ!
+[2021-07-31 22:55:18]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFZFaARcUPAAAAAAAAAAA0833.md
+[2021-07-31 22:55:18]--[src_cgi/upload_cgi.c:505]--insert into file_info (md5, file_id, url, size, type, count) values ('df1f84cf9094b616ff4e719ee2bc2f91', 'group1/M00/00/00/CtM3C2EFZFaARcUPAAAAAAAAAAA0833.md', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFZFaARcUPAAAAAAAAAAA0833.md', '0', 'md', 1) 插入失败: Duplicate entry 'df1f84cf9094b616ff4e719ee2bc2f91' for key 'file_info.PRIMARY'
+[2021-07-31 23:24:51]--[src_cgi/upload_cgi.c:616]--sungs成功上传[IMG_8001.PNG, 大小：0, md5码：706b1fc44db0270fffa81751e866c071]到本地
+[2021-07-31 23:24:51]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFa0OAeTTPAEvcbLMuAOA794.PNG] succ!
+[2021-07-31 23:24:51]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0OAeTTPAEvcbLMuAOA794.PNG
+[2021-07-31 23:24:51]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('706b1fc44db0270fffa81751e866c071', 'group1/M00/00/00/CtM3C2EFa0OAeTTPAEvcbLMuAOA794.PNG', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0OAeTTPAEvcbLMuAOA794.PNG', '0', 'PNG', 1) 文件信息插入成功
+[2021-07-31 23:24:51]--[src_cgi/upload_cgi.c:616]--sungs成功上传[IMG_7714.JPG, 大小：0, md5码：60ecab435affd9930b8497d7cfe0f710]到本地
+[2021-07-31 23:24:51]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFa0OAUMYIAB0ZcgK4iaI800.JPG] succ!
+[2021-07-31 23:24:51]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0OAUMYIAB0ZcgK4iaI800.JPG
+[2021-07-31 23:24:51]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('60ecab435affd9930b8497d7cfe0f710', 'group1/M00/00/00/CtM3C2EFa0OAUMYIAB0ZcgK4iaI800.JPG', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0OAUMYIAB0ZcgK4iaI800.JPG', '0', 'JPG', 1) 文件信息插入成功
+[2021-07-31 23:24:52]--[src_cgi/upload_cgi.c:616]--sungs成功上传[IMG_7711.JPG, 大小：0, md5码：3e13a5c9e819d38fd47fe740d38c5ba3]到本地
+[2021-07-31 23:24:52]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFa0SAKDwRABiIOCiADqE420.JPG] succ!
+[2021-07-31 23:24:52]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0SAKDwRABiIOCiADqE420.JPG
+[2021-07-31 23:24:52]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('3e13a5c9e819d38fd47fe740d38c5ba3', 'group1/M00/00/00/CtM3C2EFa0SAKDwRABiIOCiADqE420.JPG', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0SAKDwRABiIOCiADqE420.JPG', '0', 'JPG', 1) 文件信息插入成功
+[2021-07-31 23:24:52]--[src_cgi/upload_cgi.c:616]--sungs成功上传[IMG_7710.JPG, 大小：0, md5码：47cd9108d3d67cb04a741dd31dffbb9f]到本地
+[2021-07-31 23:24:52]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFa0SAMiSNABpB5HtyzDk156.JPG] succ!
+[2021-07-31 23:24:52]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0SAMiSNABpB5HtyzDk156.JPG
+[2021-07-31 23:24:52]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('47cd9108d3d67cb04a741dd31dffbb9f', 'group1/M00/00/00/CtM3C2EFa0SAMiSNABpB5HtyzDk156.JPG', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0SAMiSNABpB5HtyzDk156.JPG', '0', 'JPG', 1) 文件信息插入成功
+[2021-07-31 23:24:53]--[src_cgi/upload_cgi.c:616]--sungs成功上传[IMG_7709.JPG, 大小：0, md5码：41d5b8a43c52f8514a50993ad2e8fc2f]到本地
+[2021-07-31 23:24:53]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFa0WAUvFpACAe55pwAY8839.JPG] succ!
+[2021-07-31 23:24:53]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0WAUvFpACAe55pwAY8839.JPG
+[2021-07-31 23:24:53]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('41d5b8a43c52f8514a50993ad2e8fc2f', 'group1/M00/00/00/CtM3C2EFa0WAUvFpACAe55pwAY8839.JPG', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0WAUvFpACAe55pwAY8839.JPG', '0', 'JPG', 1) 文件信息插入成功
+[2021-07-31 23:24:53]--[src_cgi/upload_cgi.c:616]--sungs成功上传[IMG_7708.JPG, 大小：0, md5码：2a566930b369ce2e4b9eb76521a47ea0]到本地
+[2021-07-31 23:24:53]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFa0WASVeSABz19cpU_dM475.JPG] succ!
+[2021-07-31 23:24:53]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0WASVeSABz19cpU_dM475.JPG
+[2021-07-31 23:24:53]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('2a566930b369ce2e4b9eb76521a47ea0', 'group1/M00/00/00/CtM3C2EFa0WASVeSABz19cpU_dM475.JPG', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0WASVeSABz19cpU_dM475.JPG', '0', 'JPG', 1) 文件信息插入成功
+[2021-07-31 23:24:54]--[src_cgi/upload_cgi.c:616]--sungs成功上传[IMG_7706.JPG, 大小：0, md5码：7811d8407c1f4c7a3b40f63bc85c2bcf]到本地
+[2021-07-31 23:24:54]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFa0aABqQ3ACH4N6Za_KM875.JPG] succ!
+[2021-07-31 23:24:54]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0aABqQ3ACH4N6Za_KM875.JPG
+[2021-07-31 23:24:54]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('7811d8407c1f4c7a3b40f63bc85c2bcf', 'group1/M00/00/00/CtM3C2EFa0aABqQ3ACH4N6Za_KM875.JPG', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0aABqQ3ACH4N6Za_KM875.JPG', '0', 'JPG', 1) 文件信息插入成功
+[2021-07-31 23:24:54]--[src_cgi/upload_cgi.c:616]--sungs成功上传[IMG_7704.JPG, 大小：0, md5码：827dcead8c630b19758a5e73e23d9d54]到本地
+[2021-07-31 23:24:54]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFa0aAN9alAB9ltZY1glg472.JPG] succ!
+[2021-07-31 23:24:54]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0aAN9alAB9ltZY1glg472.JPG
+[2021-07-31 23:24:54]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('827dcead8c630b19758a5e73e23d9d54', 'group1/M00/00/00/CtM3C2EFa0aAN9alAB9ltZY1glg472.JPG', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0aAN9alAB9ltZY1glg472.JPG', '0', 'JPG', 1) 文件信息插入成功
+[2021-07-31 23:24:55]--[src_cgi/upload_cgi.c:616]--sungs成功上传[IMG_7703.JPG, 大小：0, md5码：fd32b485904b5712febd7fb8f0c2d3e8]到本地
+[2021-07-31 23:24:55]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFa0eAeZmqABd2SdKTxQs439.JPG] succ!
+[2021-07-31 23:24:55]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0eAeZmqABd2SdKTxQs439.JPG
+[2021-07-31 23:24:55]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('fd32b485904b5712febd7fb8f0c2d3e8', 'group1/M00/00/00/CtM3C2EFa0eAeZmqABd2SdKTxQs439.JPG', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa0eAeZmqABd2SdKTxQs439.JPG', '0', 'JPG', 1) 文件信息插入成功
+[2021-07-31 23:25:15]--[src_cgi/upload_cgi.c:616]--sungs成功上传[C++ GUI Qt 4编程（第二版）.pdf, 大小：0, md5码：61159f269d64de1578d27f7d54f255a2]到本地
+[2021-07-31 23:25:15]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFa1uAbt_fAVgczp5m3NQ798.pdf] succ!
+[2021-07-31 23:25:15]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa1uAbt_fAVgczp5m3NQ798.pdf
+[2021-07-31 23:25:15]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('61159f269d64de1578d27f7d54f255a2', 'group1/M00/00/00/CtM3C2EFa1uAbt_fAVgczp5m3NQ798.pdf', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa1uAbt_fAVgczp5m3NQ798.pdf', '0', 'pdf', 1) 文件信息插入成功
+[2021-07-31 23:25:54]--[src_cgi/upload_cgi.c:616]--sungs成功上传[C++面经.pdf, 大小：0, md5码：d1e23bec273d16fb12a6abd26606cdb2]到本地
+[2021-07-31 23:25:54]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFa4KAbpeqAC-ey4cyEA0355.pdf] succ!
+[2021-07-31 23:25:54]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa4KAbpeqAC-ey4cyEA0355.pdf
+[2021-07-31 23:25:54]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('d1e23bec273d16fb12a6abd26606cdb2', 'group1/M00/00/00/CtM3C2EFa4KAbpeqAC-ey4cyEA0355.pdf', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa4KAbpeqAC-ey4cyEA0355.pdf', '0', 'pdf', 1) 文件信息插入成功
+[2021-07-31 23:25:54]--[src_cgi/upload_cgi.c:616]--sungs成功上传[git 总结.md, 大小：0, md5码：fc3740b9cc07f25787cb5f586e3d96a3]到本地
+[2021-07-31 23:25:54]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFa4KAEM1MAAAY_kkrSGM2217.md] succ!
+[2021-07-31 23:25:54]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa4KAEM1MAAAY_kkrSGM2217.md
+[2021-07-31 23:25:54]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('fc3740b9cc07f25787cb5f586e3d96a3', 'group1/M00/00/00/CtM3C2EFa4KAEM1MAAAY_kkrSGM2217.md', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa4KAEM1MAAAY_kkrSGM2217.md', '0', 'md', 1) 文件信息插入成功
+[2021-07-31 23:25:55]--[src_cgi/upload_cgi.c:616]--sungs成功上传[git 总结.md, 大小：0, md5码：3dec1db5a3b310fb277f39516be06f5d]到本地
+[2021-07-31 23:25:55]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFa4OAWA1yAAAZxQCCnS86201.md] succ!
+[2021-07-31 23:25:55]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa4OAWA1yAAAZxQCCnS86201.md
+[2021-07-31 23:25:55]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('3dec1db5a3b310fb277f39516be06f5d', 'group1/M00/00/00/CtM3C2EFa4OAWA1yAAAZxQCCnS86201.md', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFa4OAWA1yAAAZxQCCnS86201.md', '0', 'md', 1) 文件信息插入成功
+[2021-07-31 23:32:31]--[src_cgi/upload_cgi.c:616]--sungs成功上传[Linux高性能服务器编程.pdf, 大小：0, md5码：29c82d3c4f89e475572d6638db15e598]到本地
+[2021-07-31 23:32:31]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/CtM3C2EFbQ-AJ-hoAgZy2zC3bVA746.pdf] succ!
+[2021-07-31 23:32:31]--[src_cgi/upload_cgi.c:456]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFbQ-AJ-hoAgZy2zC3bVA746.pdf
+[2021-07-31 23:32:31]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('29c82d3c4f89e475572d6638db15e598', 'group1/M00/00/00/CtM3C2EFbQ-AJ-hoAgZy2zC3bVA746.pdf', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EFbQ-AJ-hoAgZy2zC3bVA746.pdf', '0', 'pdf', 1) 文件信息插入成功

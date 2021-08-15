@@ -1,0 +1,14 @@
+{
+    "login": {
+        "pwd": "MTIzMDEyMzA=",
+        "remember": "yes",
+        "user": "c3VuZ3M="
+    },
+    "type_path": {
+        "path": "/Users/sunguosheng/Code/Yun/Pan/conf/fileType"
+    },
+    "web_server": {
+        "ip": "10.211.55.11",
+        "port": "80"
+    }
+}

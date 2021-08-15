@@ -1,0 +1,11 @@
+[2021-08-13 15:00:43]--[src_cgi/login_cgi.c:288]--buf = {
+    "pwd": "12301230",
+    "user": "sungs"
+}
+
+[2021-08-13 15:00:43]--[src_cgi/login_cgi.c:294]--user = sungs, pwd = 12301230
+[2021-08-13 15:00:43]--[src_cgi/login_cgi.c:101]--mysql_user = root, mysql_pwd = 12301230, mysql_db = cloud_disk
+[2021-08-13 15:00:43]--[src_cgi/login_cgi.c:161]--redis:[ip=10.211.55.11,port=6379]
+[2021-08-13 15:00:43]--[src_cgi/login_cgi.c:185]--tmp = sungs465362501650
+[2021-08-13 15:00:43]--[src_cgi/login_cgi.c:201]--base64 = bvZNxtbsgyH6WRJfo5hZcLN71Jkkp7xg
+[2021-08-13 15:00:43]--[src_cgi/login_cgi.c:303]--token = 3def18c0337b1f365ddb2b7e56144a5c

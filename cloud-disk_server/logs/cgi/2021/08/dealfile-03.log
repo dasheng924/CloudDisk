@@ -1,0 +1,77 @@
+[2021-08-03 02:01:25]--[src_cgi/dealfile_cgi.c:42]--mysql:[user=root,pwd=12301230,database=cloud_disk][2021-08-03 02:01:25]--[src_cgi/dealfile_cgi.c:47]--redis:[ip=10.211.55.11,port=6379]
+[2021-08-03 02:07:38]--[src_cgi/dealfile_cgi.c:42]--mysql:[user=root,pwd=12301230,database=cloud_disk][2021-08-03 02:07:38]--[src_cgi/dealfile_cgi.c:47]--redis:[ip=10.211.55.11,port=6379]
+[2021-08-03 17:09:26]--[src_cgi/dealfile_cgi.c:695]--cmd = pv
+[2021-08-03 17:09:26]--[src_cgi/dealfile_cgi.c:727]--buf = {
+    "filename": "QML葵花宝典.pdf",
+    "md5": "09113234a337f65ceec5cdc7f420f20c",
+    "token": "6dfdb7258b9f99640b8c83ff205ed9db",
+    "user": "sungs"
+}
+
+[2021-08-03 17:09:26]--[src_cgi/dealfile_cgi.c:730]--user = sungs, token = 6dfdb7258b9f99640b8c83ff205ed9db, md5 = 09113234a337f65ceec5cdc7f420f20c, filename = QML葵花宝典.pdf
+[2021-08-03 17:31:20]--[src_cgi/dealfile_cgi.c:695]--cmd = pv
+[2021-08-03 17:31:20]--[src_cgi/dealfile_cgi.c:727]--buf = {
+    "filename": "IMG_7710.JPG",
+    "md5": "47cd9108d3d67cb04a741dd31dffbb9f",
+    "token": "bc37afe9bbff8300aa82fe7b28295772",
+    "user": "sungs"
+}
+
+[2021-08-03 17:31:20]--[src_cgi/dealfile_cgi.c:730]--user = sungs, token = bc37afe9bbff8300aa82fe7b28295772, md5 = 47cd9108d3d67cb04a741dd31dffbb9f, filename = IMG_7710.JPG
+[2021-08-03 17:41:46]--[src_cgi/dealfile_cgi.c:695]--cmd = pv
+[2021-08-03 17:41:46]--[src_cgi/dealfile_cgi.c:727]--buf = {
+    "filename": "孙国盛 C:C++软件开发.md",
+    "md5": "90dad3285063133a59da5ba592ab540e",
+    "token": "811ca7d8cfdd76cb18039e4302451398",
+    "user": "sungs"
+}
+
+[2021-08-03 17:41:46]--[src_cgi/dealfile_cgi.c:730]--user = sungs, token = 811ca7d8cfdd76cb18039e4302451398, md5 = 90dad3285063133a59da5ba592ab540e, filename = 孙国盛 C:C++软件开发.md
+[2021-08-03 17:45:07]--[src_cgi/dealfile_cgi.c:695]--cmd = del
+[2021-08-03 17:45:07]--[src_cgi/dealfile_cgi.c:727]--buf = {
+    "filename": "IMG_7946.PNG",
+    "md5": "3abeef1b8b0bacb817f2bc4ae1115e6d",
+    "token": "38d8157ed3eb25683d3cb88eb0884a3c",
+    "user": "sungs"
+}
+
+[2021-08-03 17:45:07]--[src_cgi/dealfile_cgi.c:730]--user = sungs, token = 38d8157ed3eb25683d3cb88eb0884a3c, md5 = 3abeef1b8b0bacb817f2bc4ae1115e6d, filename = IMG_7946.PNG
+[2021-08-03 17:45:07]--[src_cgi/dealfile_cgi.c:329]--remove_file_from_storage ret = 0
+[2021-08-03 17:45:11]--[src_cgi/dealfile_cgi.c:695]--cmd = del
+[2021-08-03 17:45:11]--[src_cgi/dealfile_cgi.c:727]--buf = {
+    "filename": "Pan",
+    "md5": "9f69b9167e788f42b4416d20ac86101d",
+    "token": "38d8157ed3eb25683d3cb88eb0884a3c",
+    "user": "sungs"
+}
+
+[2021-08-03 17:45:11]--[src_cgi/dealfile_cgi.c:730]--user = sungs, token = 38d8157ed3eb25683d3cb88eb0884a3c, md5 = 9f69b9167e788f42b4416d20ac86101d, filename = Pan
+[2021-08-03 17:45:11]--[src_cgi/dealfile_cgi.c:329]--remove_file_from_storage ret = 0
+[2021-08-03 17:45:15]--[src_cgi/dealfile_cgi.c:695]--cmd = del
+[2021-08-03 17:45:15]--[src_cgi/dealfile_cgi.c:727]--buf = {
+    "filename": "202107162119 (1).mp4",
+    "md5": "e8c3baa9689022e822bb31b0eab8dd17",
+    "token": "38d8157ed3eb25683d3cb88eb0884a3c",
+    "user": "sungs"
+}
+
+[2021-08-03 17:45:15]--[src_cgi/dealfile_cgi.c:730]--user = sungs, token = 38d8157ed3eb25683d3cb88eb0884a3c, md5 = e8c3baa9689022e822bb31b0eab8dd17, filename = 202107162119 (1).mp4
+[2021-08-03 17:45:15]--[src_cgi/dealfile_cgi.c:329]--remove_file_from_storage ret = 0
+[2021-08-03 17:49:48]--[src_cgi/dealfile_cgi.c:695]--cmd = share
+[2021-08-03 17:49:48]--[src_cgi/dealfile_cgi.c:727]--buf = {
+    "filename": "202107162119 (1).mp4",
+    "md5": "e8c3baa9689022e822bb31b0eab8dd17",
+    "token": "ec8c6125602b2e2fdc5a90e52b76bfa0",
+    "user": "sungs"
+}
+
+[2021-08-03 17:49:48]--[src_cgi/dealfile_cgi.c:730]--user = sungs, token = ec8c6125602b2e2fdc5a90e52b76bfa0, md5 = e8c3baa9689022e822bb31b0eab8dd17, filename = 202107162119 (1).mp4
+[2021-08-03 17:50:04]--[src_cgi/dealfile_cgi.c:695]--cmd = share
+[2021-08-03 17:50:04]--[src_cgi/dealfile_cgi.c:727]--buf = {
+    "filename": "202107162119.mp4",
+    "md5": "aa306610b46b7d0216c24caa0eba6f8d",
+    "token": "ec8c6125602b2e2fdc5a90e52b76bfa0",
+    "user": "sungs"
+}
+
+[2021-08-03 17:50:04]--[src_cgi/dealfile_cgi.c:730]--user = sungs, token = ec8c6125602b2e2fdc5a90e52b76bfa0, md5 = aa306610b46b7d0216c24caa0eba6f8d, filename = 202107162119.mp4

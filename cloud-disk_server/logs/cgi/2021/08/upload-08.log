@@ -1,0 +1,6 @@
+[2021-08-08 23:50:56]--[src_cgi/upload_cgi.c:42]--mysql:[user=root,pwd=12301230,database=cloud_disk][2021-08-08 23:56:31]--[src_cgi/upload_cgi.c:600]--len = 1769
+[2021-08-08 23:56:31]--[src_cgi/upload_cgi.c:224]--*p_size = 1506,tmp = 1506,pEnd = 
+[2021-08-08 23:56:31]--[src_cgi/upload_cgi.c:623]--sungs成功上传[孙国盛 C:C++软件开发.md, 大小：1506, md5码：90dad3285063133a59da5ba592ab540e]到本地
+[2021-08-08 23:56:31]--[src_cgi/upload_cgi.c:356]--get [group1/M00/00/00/CtM3C2EP_q-AIVbVAAAF4rT1Cmo2404.md] succ!
+[2021-08-08 23:56:31]--[src_cgi/upload_cgi.c:461]--file url is: http://10.211.55.11:80/group1/M00/00/00/CtM3C2EP_q-AIVbVAAAF4rT1Cmo2404.md
+[2021-08-08 23:56:31]--[src_cgi/upload_cgi.c:515]--insert into file_info (md5, file_id, url, size, type, count) values ('90dad3285063133a59da5ba592ab540e', 'group1/M00/00/00/CtM3C2EP_q-AIVbVAAAF4rT1Cmo2404.md', 'http://10.211.55.11:80/group1/M00/00/00/CtM3C2EP_q-AIVbVAAAF4rT1Cmo2404.md', '1506', 'md', 1) 文件信息插入成功

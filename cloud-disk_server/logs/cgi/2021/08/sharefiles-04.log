@@ -1,0 +1,341 @@
+[2021-08-04 11:49:45]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2021-08-04 11:49:45]--[src_cgi/sharefiles_cgi.c:85]--line = 2
+[2021-08-04 11:49:45]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2021-08-04 11:49:45]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2021-08-04 11:49:45]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 2
+[2021-08-04 11:49:46]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 2 在操作
+[2021-08-04 11:49:46]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"sungs",
+			"md5":	"e8c3baa9689022e822bb31b0eab8dd17",
+			"time":	"2021-08-03 17:49:48",
+			"filename":	"202107162119 (1).mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETCAIKw2ACQJK66pcr4162.mp4",
+			"size":	2361643,
+			"type":	"mp4"
+		}, {
+			"user":	"sungs",
+			"md5":	"aa306610b46b7d0216c24caa0eba6f8d",
+			"time":	"2021-08-03 17:50:04",
+			"filename":	"202107162119.mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETKAEew6Ad0A2y5S988436.mp4",
+			"size":	31260891,
+			"type":	"mp4"
+		}]
+}
+[2021-08-04 11:49:47]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2021-08-04 11:49:47]--[src_cgi/sharefiles_cgi.c:85]--line = 2
+[2021-08-04 11:49:47]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2021-08-04 11:49:47]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2021-08-04 11:49:47]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 2
+[2021-08-04 11:49:47]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 2 在操作
+[2021-08-04 11:49:47]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"sungs",
+			"md5":	"e8c3baa9689022e822bb31b0eab8dd17",
+			"time":	"2021-08-03 17:49:48",
+			"filename":	"202107162119 (1).mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETCAIKw2ACQJK66pcr4162.mp4",
+			"size":	2361643,
+			"type":	"mp4"
+		}, {
+			"user":	"sungs",
+			"md5":	"aa306610b46b7d0216c24caa0eba6f8d",
+			"time":	"2021-08-03 17:50:04",
+			"filename":	"202107162119.mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETKAEew6Ad0A2y5S988436.mp4",
+			"size":	31260891,
+			"type":	"mp4"
+		}]
+}
+[2021-08-04 11:50:28]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2021-08-04 11:50:28]--[src_cgi/sharefiles_cgi.c:85]--line = 2
+[2021-08-04 11:50:28]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2021-08-04 11:50:28]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2021-08-04 11:50:28]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 2
+[2021-08-04 11:50:28]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 2 在操作
+[2021-08-04 11:50:28]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"sungs",
+			"md5":	"e8c3baa9689022e822bb31b0eab8dd17",
+			"time":	"2021-08-03 17:49:48",
+			"filename":	"202107162119 (1).mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETCAIKw2ACQJK66pcr4162.mp4",
+			"size":	2361643,
+			"type":	"mp4"
+		}, {
+			"user":	"sungs",
+			"md5":	"aa306610b46b7d0216c24caa0eba6f8d",
+			"time":	"2021-08-03 17:50:04",
+			"filename":	"202107162119.mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETKAEew6Ad0A2y5S988436.mp4",
+			"size":	31260891,
+			"type":	"mp4"
+		}]
+}
+[2021-08-04 11:50:49]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2021-08-04 11:50:49]--[src_cgi/sharefiles_cgi.c:85]--line = 2
+[2021-08-04 11:50:49]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2021-08-04 11:50:49]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2021-08-04 11:50:49]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 2
+[2021-08-04 11:50:49]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 2, redis_num = 2
+[2021-08-04 11:50:49]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"202107162119 (1).mp4",
+			"pv":	0
+		}, {
+			"filename":	"202107162119.mp4",
+			"pv":	0
+		}]
+}
+[2021-08-04 12:33:33]--[src_cgi/sharefiles_cgi.c:42]--mysql:[user=root,pwd=12301230,database=cloud_disk][2021-08-04 12:33:33]--[src_cgi/sharefiles_cgi.c:47]--redis:[ip=10.211.55.11,port=6379]
+[2021-08-04 12:35:01]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2021-08-04 12:35:01]--[src_cgi/sharefiles_cgi.c:85]--line = 2
+[2021-08-04 12:35:01]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2021-08-04 12:35:01]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2021-08-04 12:35:01]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 2
+[2021-08-04 12:35:01]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 2, redis_num = 2
+[2021-08-04 12:35:01]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"202107162119 (1).mp4",
+			"pv":	0
+		}, {
+			"filename":	"202107162119.mp4",
+			"pv":	0
+		}]
+}
+[2021-08-04 12:35:06]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2021-08-04 12:35:06]--[src_cgi/sharefiles_cgi.c:85]--line = 2
+[2021-08-04 12:35:06]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2021-08-04 12:35:06]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2021-08-04 12:35:06]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 2
+[2021-08-04 12:35:06]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 2 在操作
+[2021-08-04 12:35:06]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"sungs",
+			"md5":	"e8c3baa9689022e822bb31b0eab8dd17",
+			"time":	"2021-08-03 17:49:48",
+			"filename":	"202107162119 (1).mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETCAIKw2ACQJK66pcr4162.mp4",
+			"size":	2361643,
+			"type":	"mp4"
+		}, {
+			"user":	"sungs",
+			"md5":	"aa306610b46b7d0216c24caa0eba6f8d",
+			"time":	"2021-08-03 17:50:04",
+			"filename":	"202107162119.mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETKAEew6Ad0A2y5S988436.mp4",
+			"size":	31260891,
+			"type":	"mp4"
+		}]
+}
+[2021-08-04 12:35:09]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2021-08-04 12:35:09]--[src_cgi/sharefiles_cgi.c:85]--line = 2
+[2021-08-04 12:35:09]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2021-08-04 12:35:09]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2021-08-04 12:35:09]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 2
+[2021-08-04 12:35:09]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 2, redis_num = 2
+[2021-08-04 12:35:09]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"202107162119 (1).mp4",
+			"pv":	0
+		}, {
+			"filename":	"202107162119.mp4",
+			"pv":	0
+		}]
+}
+[2021-08-04 12:35:14]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2021-08-04 12:35:14]--[src_cgi/sharefiles_cgi.c:85]--line = 2
+[2021-08-04 12:35:14]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2021-08-04 12:35:14]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2021-08-04 12:35:14]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 2
+[2021-08-04 12:35:14]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 2, redis_num = 2
+[2021-08-04 12:35:14]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"202107162119 (1).mp4",
+			"pv":	0
+		}, {
+			"filename":	"202107162119.mp4",
+			"pv":	0
+		}]
+}
+[2021-08-04 12:35:14]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2021-08-04 12:35:14]--[src_cgi/sharefiles_cgi.c:85]--line = 2
+[2021-08-04 12:35:14]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2021-08-04 12:35:14]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2021-08-04 12:35:14]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 2
+[2021-08-04 12:35:14]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 2 在操作
+[2021-08-04 12:35:14]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"sungs",
+			"md5":	"e8c3baa9689022e822bb31b0eab8dd17",
+			"time":	"2021-08-03 17:49:48",
+			"filename":	"202107162119 (1).mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETCAIKw2ACQJK66pcr4162.mp4",
+			"size":	2361643,
+			"type":	"mp4"
+		}, {
+			"user":	"sungs",
+			"md5":	"aa306610b46b7d0216c24caa0eba6f8d",
+			"time":	"2021-08-03 17:50:04",
+			"filename":	"202107162119.mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETKAEew6Ad0A2y5S988436.mp4",
+			"size":	31260891,
+			"type":	"mp4"
+		}]
+}
+[2021-08-04 12:35:17]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2021-08-04 12:35:17]--[src_cgi/sharefiles_cgi.c:85]--line = 2
+[2021-08-04 12:35:17]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2021-08-04 12:35:17]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2021-08-04 12:35:17]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 2
+[2021-08-04 12:35:17]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 2 在操作
+[2021-08-04 12:35:17]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"sungs",
+			"md5":	"e8c3baa9689022e822bb31b0eab8dd17",
+			"time":	"2021-08-03 17:49:48",
+			"filename":	"202107162119 (1).mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETCAIKw2ACQJK66pcr4162.mp4",
+			"size":	2361643,
+			"type":	"mp4"
+		}, {
+			"user":	"sungs",
+			"md5":	"aa306610b46b7d0216c24caa0eba6f8d",
+			"time":	"2021-08-03 17:50:04",
+			"filename":	"202107162119.mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETKAEew6Ad0A2y5S988436.mp4",
+			"size":	31260891,
+			"type":	"mp4"
+		}]
+}
+[2021-08-04 12:35:20]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2021-08-04 12:35:20]--[src_cgi/sharefiles_cgi.c:85]--line = 2
+[2021-08-04 12:35:20]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2021-08-04 12:35:20]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2021-08-04 12:35:20]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 2
+[2021-08-04 12:35:20]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 2 在操作
+[2021-08-04 12:35:20]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"sungs",
+			"md5":	"e8c3baa9689022e822bb31b0eab8dd17",
+			"time":	"2021-08-03 17:49:48",
+			"filename":	"202107162119 (1).mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETCAIKw2ACQJK66pcr4162.mp4",
+			"size":	2361643,
+			"type":	"mp4"
+		}, {
+			"user":	"sungs",
+			"md5":	"aa306610b46b7d0216c24caa0eba6f8d",
+			"time":	"2021-08-03 17:50:04",
+			"filename":	"202107162119.mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETKAEew6Ad0A2y5S988436.mp4",
+			"size":	31260891,
+			"type":	"mp4"
+		}]
+}
+[2021-08-04 12:36:32]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2021-08-04 12:36:32]--[src_cgi/sharefiles_cgi.c:85]--line = 2
+[2021-08-04 12:36:32]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2021-08-04 12:36:32]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2021-08-04 12:36:32]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 2
+[2021-08-04 12:36:32]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 2 在操作
+[2021-08-04 12:36:32]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"sungs",
+			"md5":	"e8c3baa9689022e822bb31b0eab8dd17",
+			"time":	"2021-08-03 17:49:48",
+			"filename":	"202107162119 (1).mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETCAIKw2ACQJK66pcr4162.mp4",
+			"size":	2361643,
+			"type":	"mp4"
+		}, {
+			"user":	"sungs",
+			"md5":	"aa306610b46b7d0216c24caa0eba6f8d",
+			"time":	"2021-08-03 17:50:04",
+			"filename":	"202107162119.mp4",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://10.211.55.11:80/group1/M00/00/00/CtM3C2EJETKAEew6Ad0A2y5S988436.mp4",
+			"size":	31260891,
+			"type":	"mp4"
+		}]
+}
